@@ -22,7 +22,7 @@ InstaMsg is a real-time chat application that allows users to join different cha
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/instamsg-app.git
+   git clone https://github.com/MahmoudAbdelsamie/instamsg.git
 
 2. Install Packages
 
