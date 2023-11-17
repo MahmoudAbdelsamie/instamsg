@@ -1,0 +1,24 @@
+{
+  "name": "instamsg",
+  "version": "1.0.0",
+  "description": "Realtime Chat App with rooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Mahmoud Abdelsamie",
+  "license": "MIT",
+  "dependencies": {
+    "@socket.io/redis-adapter": "^8.2.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "qs": "^6.11.2",
+    "redis": "^4.6.10",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
