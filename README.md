@@ -23,8 +23,12 @@ InstaMsg is a real-time chat application that allows users to join different cha
 
    ```bash
    git clone https://github.com/your-username/instamsg-app.git
+
 2. Install Packages
 
-  ```bash
- npm install
+   ```bash
+   npm install
 
+3. Run the App
+   ```bash
+   npm run dev
